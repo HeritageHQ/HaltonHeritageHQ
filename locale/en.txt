@@ -17,16 +17,24 @@ HotspotPanoramaOverlayArea_D1D02859_DEAC_7914_41B1_E2FAA82DF11A.toolTip = Look A
 HotspotPanoramaOverlayArea_D149CFBA_DE54_5714_41AB_64099456BAF5.toolTip = Stations of the Cross
 HotspotPanoramaOverlayArea_D137CF2E_DE54_D70C_41E2_E0B2B60C5752.toolTip = Statues
 
+### URL
+overlay_1F0ACB9A_0924_7B77_41A0_C5FE6F51516D.url = https://rebrand.ly/Exhibition_2
+overlay_18A1312E_0924_47AF_41A7_E7E5D6F350C7.url = https://rebrand.ly/Exhibition_3
+overlay_19311724_0924_CB53_4159_F85621C8C496.url = https://rebrand.ly/Exhibition_4
+overlay_1A4C8C0B_095C_3D55_417F_3B3743079EEC.url = https://rebrand.ly/Exhibition_5
+overlay_1A92D761_097C_CBD5_41A2_BEF976AE1727.url = https://rebrand.ly/Exhibition_6
+overlay_1F3F41D5_093C_C6FD_4169_46EEB0A34C96.url = https://rebrand.ly/exhibition_1
+
 ## Media
 
 ### Floorplan
 
 ### Image
-imlevel_27B3A51A_0614_1818_4191_5AD74DBB4163.url = media/map_1BBDCEB7_01F4_E828_4180_EB727230F02B_en_0.png
-imlevel_27B3451B_0614_1818_418E_05C43EF6EF59.url = media/map_1BBDCEB7_01F4_E828_4180_EB727230F02B_en_1.png
-imlevel_27B3551B_0614_1818_4176_B82473345216.url = media/map_1BBDCEB7_01F4_E828_4180_EB727230F02B_en_2.png
-imlevel_27B3751C_0614_1818_418B_62B17BD33FA2.url = media/map_1BBDCEB7_01F4_E828_4180_EB727230F02B_en_3.png
-imlevel_27B3251D_0614_1818_4176_0DD8436ECE5F.url = media/map_1BBDCEB7_01F4_E828_4180_EB727230F02B_en_4.png
+imlevel_1A07C646_097C_CDDF_4196_928A40F2A3AB.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_0.png
+imlevel_1A073646_097C_CDDF_41A2_BB072DB9C764.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_1.png
+imlevel_1A072647_097C_CDDD_4173_37E5A5CAFAAC.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_2.png
+imlevel_1A071647_097C_CDDD_4193_A1770FA42668.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_3.png
+imlevel_1A077648_097C_CDD3_4167_A157D611C3C8.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_4.png
 
 ### Title
 panorama_C4777830_D538_4A7F_41C6_5C2268E8F65F.label = GS__7013
@@ -92,7 +100,7 @@ panorama_DEF315ED_D528_45E1_41CF_1815A161F7CC.label = GS__7163
 panorama_D1AA974F_DE74_570C_41C0_02A660D00365.label = GS__7168
 panorama_F05557A5_FD9D_677A_41C9_76DEDFEB539F.label = GS__7196
 panorama_F3EA9AAF_FD9E_E946_41C1_98906EEDC4B1.label = GS__7212
-map_1BBDCEB7_01F4_E828_4180_EB727230F02B.label = floorplan
+map_090E6B40_0725_DBD3_4176_AF82C003FF40.label = floorplan
 
 ## Skin
 
@@ -104,6 +112,7 @@ Button_13555123_0214_1828_4180_FAB66827368D.toolTip = Map
 ## Tour
 
 ### Description
+tour.description = Welcome to Halton's Heritage HQ, at St Marie's
 
 ### Title
-tour.name = Untitled 8
+tour.name = HeritageHQ
