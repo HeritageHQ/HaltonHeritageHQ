@@ -4,9 +4,15 @@
 
 ### URL
 PopupWebFrameBehaviour_CD7B0146_DEEC_2B7C_41CF_7A0B38831713.url = https://rebrand.ly/Cross_Stations_Introduction
+LinkBehaviour_6055C64B_2722_0F9D_41C1_340BADBCB2DF.source = https://rebrand.ly/Exhibition_2
+LinkBehaviour_62904380_27E2_048B_4197_DF6BDF08C310.source = https://rebrand.ly/Exhibition_3
+LinkBehaviour_6BCCBF20_272E_1D8C_41B1_4D7589BBB19F.source = https://rebrand.ly/Exhibition_4
+LinkBehaviour_76086343_2722_058C_41B6_EB35FDAAD043.source = https://rebrand.ly/Exhibition_5
+LinkBehaviour_74EAF198_2726_04BC_41B0_B09B025C4392.source = https://rebrand.ly/Exhibition_6
 PopupWebFrameBehaviour_CCAAA8BB_DEEC_5914_41DB_DD6EA148620A.url = https://rebrand.ly/Look_At_This_Introduction
 PopupWebFrameBehaviour_CC9E444A_DED4_6974_41E3_09D98B51F0ED.url = https://rebrand.ly/St_Maries_Community_Introduction
 PopupWebFrameBehaviour_CD71F08D_DEEC_290C_41EA_1A53AC6C0FAB.url = https://rebrand.ly/St_Maries_Statues
+LinkBehaviour_60FD4863_2726_038D_41C0_93491894C33E.source = https://rebrand.ly/exhibition_1
 PopupWebFrameBehaviour_14D297B5_0234_7828_4184_5CB5D8FA1389.url = https://rebrand.ly/intro_heritage_hq
 
 ## Hotspot
@@ -36,11 +42,11 @@ overlay_1F3F41D5_093C_C6FD_4169_46EEB0A34C96.url = https://rebrand.ly/exhibition
 ### Floorplan
 
 ### Image
-imlevel_600ADFFF_27E2_1C75_41B0_E7D261295920.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_0.png
-imlevel_600AF000_27E2_038B_41A6_8882FEC27280.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_1.png
-imlevel_600A8001_27E2_038D_41BD_BDE81ACC6900.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_2.png
-imlevel_600AB002_27E2_038F_41B7_BF9B448FFE95.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_3.png
-imlevel_600AA002_27E2_038F_41AA_8CE6C1379F80.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_4.png
+imlevel_7455653A_2722_0DFF_41A7_355497D101B3.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_0.png
+imlevel_7455553B_2722_0DFD_41B8_708EEDCCD2D9.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_1.png
+imlevel_7455453C_2722_0DFB_41B6_6C62C030BC49.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_2.png
+imlevel_7455A53C_2722_0DFB_41A7_DE77D0D1442E.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_3.png
+imlevel_7455953D_2722_0DF5_41A7_384636376A0C.url = media/map_090E6B40_0725_DBD3_4176_AF82C003FF40_en_4.png
 
 ### Title
 panorama_D1AA974F_DE74_570C_41C0_02A660D00365.label = Aerial
