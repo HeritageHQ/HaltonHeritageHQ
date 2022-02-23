@@ -32,9 +32,9 @@
    "type": "image/png"
   }
  ],
- "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
  "start_url": "index.htm",
  "description": "Welcome to Halton's Heritage HQ, at St Marie's",
  "display": "fullscreen",
- "background_color": "#FFFFFF"
+ "theme_color": "#FFFFFF"
 }
