@@ -1,5 +1,5 @@
 {
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "name": "HeritageHQ",
  "icons": [
   {
@@ -33,8 +33,8 @@
    "type": "image/png"
   }
  ],
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
+ "background_color": "#FFFFFF",
  "description": "Welcome to Halton's Heritage HQ, at St Marie's",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "start_url": "index.htm"
 }
