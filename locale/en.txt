@@ -7,7 +7,7 @@ PopupWebFrameBehaviour_319F04D6_2886_63A3_4194_5918FEB736B7.url = https://herita
 PopupWebFrameBehaviour_CD7B0146_DEEC_2B7C_41CF_7A0B38831713.url = https://heritagehq.github.io/HaltonHeritageHQStaticInfoPoints/stations-of-the-cross-introduction/
 LinkBehaviour_6055C64B_2722_0F9D_41C1_340BADBCB2DF.source = https://heritagehq.github.io/renovationtimeline/
 LinkBehaviour_62904380_27E2_048B_4197_DF6BDF08C310.source = https://heritagehq.github.io/PlaceholderTimeline/
-LinkBehaviour_6BCCBF20_272E_1D8C_41B1_4D7589BBB19F.source = http://www.louchapelle.com/2022/01/the-bleach-packers-watch-final-video/
+LinkBehaviour_6BCCBF20_272E_1D8C_41B1_4D7589BBB19F.source = https://heritagehq.github.io/HaltonHeritageHQStaticInfoPoints/wp-content/uploads/2024/11/lou-bleachpackers.m4v
 LinkBehaviour_76086343_2722_058C_41B6_EB35FDAAD043.source = https://heritagehq.github.io/HaltonHeritageHQStaticInfoPoints/wp-content/uploads/2022/02/Project-video-5.mp4
 LinkBehaviour_74EAF198_2726_04BC_41B0_B09B025C4392.source = https://heritagehq.github.io/HaltonHeritageHQStaticInfoPoints/wp-content/uploads/2022/02/Virtual-Exhibition-Video-1.mp4
 PopupWebFrameBehaviour_391577B0_2886_EDFF_41BE_CD0A8AA0D283.url = https://heritagehq.github.io/HaltonHeritageHQStaticInfoPoints/jesus-and-mary-2/
@@ -157,7 +157,7 @@ HotspotPanoramaOverlayArea_52DA9AA4_4555_513B_4190_708AB409853F.toolTip = view o
 ### URL
 overlay_1F0ACB9A_0924_7B77_41A0_C5FE6F51516D.url = https://heritagehq.github.io/renovationtimeline/
 overlay_18A1312E_0924_47AF_41A7_E7E5D6F350C7.url = https://heritagehq.github.io/PlaceholderTimeline/
-overlay_19311724_0924_CB53_4159_F85621C8C496.url = https://heritagehq.github.io/HaltonHeritageHQStaticInfoPoints/wp-content/uploads/2024/11/lou-bleachpackers.m4v
+overlay_19311724_0924_CB53_4159_F85621C8C496.url = http://www.louchapelle.com/2022/01/the-bleach-packers-watch-final-video/
 overlay_1A4C8C0B_095C_3D55_417F_3B3743079EEC.url = https://heritagehq.github.io/HaltonHeritageHQStaticInfoPoints/wp-content/uploads/2022/02/Project-video-5.mp4
 overlay_1A92D761_097C_CBD5_41A2_BEF976AE1727.url = https://heritagehq.github.io/HaltonHeritageHQStaticInfoPoints/wp-content/uploads/2022/02/Virtual-Exhibition-Video-1.mp4
 overlay_1F3F41D5_093C_C6FD_4169_46EEB0A34C96.url = https://heritagehq.github.io/HistoricalTimeline/
